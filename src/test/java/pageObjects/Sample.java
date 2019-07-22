@@ -8,6 +8,7 @@ public class Sample {
 		System.out.println("This is first change in commited code");
 		System.out.println("This is second change in commited code");
 		System.out.println("This is third change in commited code");
+		System.out.println("This is fouth change in commited code by gitstuff");
 	}
 
 }

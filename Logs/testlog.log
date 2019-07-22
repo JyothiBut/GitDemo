@@ -1,0 +1,103 @@
+2019-07-19 18:02:15,918 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 18:02:22,083 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 18:02:23,236 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 18:02:29,791 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 18:02:36,849 - nopCommerce -INFO - ****** Adding new customer ******
+2019-07-19 18:02:36,850 - nopCommerce -INFO - ****** Providing Customer Details ******
+2019-07-19 18:02:42,127 - nopCommerce -INFO - ****** User saved customer details by clicking on save button ******
+2019-07-19 18:02:42,871 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 18:02:51,101 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 18:02:52,430 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 18:02:52,947 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 18:02:57,655 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 18:03:02,143 - nopCommerce -INFO - ****** searching existing customer by email id ******
+2019-07-19 18:03:07,445 - nopCommerce -INFO - ****** Validating after searching customer by email id is successful ******
+2019-07-19 18:03:07,935 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 18:03:14,344 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 18:03:15,216 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 18:03:15,673 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 18:03:20,565 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 18:03:24,554 - nopCommerce -INFO - ****** searching existing customer by name ******
+2019-07-19 18:03:28,788 - nopCommerce -INFO - ****** Validating after searching customer by name is successful ******
+2019-07-19 18:03:29,035 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 18:29:16,690 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 18:29:18,458 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 18:29:18,945 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 18:29:24,855 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 18:29:34,377 - nopCommerce -INFO - ****** Adding new customer ******
+2019-07-19 18:29:34,378 - nopCommerce -INFO - ****** Providing Customer Details ******
+2019-07-19 18:29:38,496 - nopCommerce -INFO - ****** User saved customer details by clicking on save button ******
+2019-07-19 18:29:39,043 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 18:29:42,953 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 18:29:44,284 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 18:29:44,618 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 18:29:50,352 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 18:29:54,234 - nopCommerce -INFO - ****** searching existing customer by email id ******
+2019-07-19 18:29:58,270 - nopCommerce -INFO - ****** Validating after searching customer by email id is successful ******
+2019-07-19 18:29:58,428 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 18:30:02,529 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 18:30:03,464 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 18:30:03,864 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 18:30:08,941 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 18:30:11,205 - nopCommerce -INFO - ****** searching existing customer by name ******
+2019-07-19 18:30:14,921 - nopCommerce -INFO - ****** Validating after searching customer by name is successful ******
+2019-07-19 18:30:15,043 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 18:56:35,536 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 18:56:37,031 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 18:56:37,447 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 18:56:41,241 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 18:56:46,510 - nopCommerce -INFO - ****** Adding new customer ******
+2019-07-19 18:56:46,511 - nopCommerce -INFO - ****** Providing Customer Details ******
+2019-07-19 18:56:50,734 - nopCommerce -INFO - ****** User saved customer details by clicking on save button ******
+2019-07-19 18:56:51,212 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 18:56:55,091 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 18:56:56,787 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 18:56:57,143 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 18:57:09,386 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 18:57:09,646 - nopCommerce -INFO - ****** Successful Login ******
+2019-07-19 18:57:13,703 - nopCommerce -INFO - ****** Successful Logout ******
+2019-07-19 18:57:13,731 - nopCommerce -INFO - ****** Successful Login ******
+2019-07-19 18:57:13,867 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 18:59:45,607 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 18:59:47,802 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 18:59:48,173 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 18:59:53,523 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 18:59:57,502 - nopCommerce -INFO - ****** Adding new customer ******
+2019-07-19 18:59:57,503 - nopCommerce -INFO - ****** Providing Customer Details ******
+2019-07-19 19:00:05,803 - nopCommerce -INFO - ****** User saved customer details by clicking on save button ******
+2019-07-19 19:00:06,336 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 19:00:10,460 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 19:00:11,541 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 19:00:11,929 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 19:00:17,543 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 19:00:20,577 - nopCommerce -INFO - ****** searching existing customer by email id ******
+2019-07-19 19:00:24,349 - nopCommerce -INFO - ****** Validating after searching customer by email id is successful ******
+2019-07-19 19:00:24,550 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 19:00:28,723 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 19:00:29,730 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 19:00:30,132 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 19:00:35,188 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 19:00:37,491 - nopCommerce -INFO - ****** searching existing customer by name ******
+2019-07-19 19:00:41,310 - nopCommerce -INFO - ****** Validating after searching customer by name is successful ******
+2019-07-19 19:00:41,440 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 19:00:45,522 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 19:00:46,565 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 19:00:46,906 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 19:00:50,847 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 19:00:50,929 - nopCommerce -INFO - ****** Successful Login ******
+2019-07-19 19:00:52,885 - nopCommerce -INFO - ****** Successful Logout ******
+2019-07-19 19:00:52,898 - nopCommerce -INFO - ****** Successful Login ******
+2019-07-19 19:00:53,029 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 19:00:57,088 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 19:00:57,920 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 19:00:58,309 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 19:01:03,600 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 19:01:03,682 - nopCommerce -INFO - ****** Successful Login ******
+2019-07-19 19:01:05,268 - nopCommerce -INFO - ****** Successful Logout ******
+2019-07-19 19:01:05,295 - nopCommerce -INFO - ****** Successful Login ******
+2019-07-19 19:01:05,530 - nopCommerce -INFO - ****** Browser Closed ******
+2019-07-19 19:01:09,548 - nopCommerce -INFO - ****** Launching Browser ******
+2019-07-19 19:01:12,559 - nopCommerce -INFO - ****** Opening URL ******
+2019-07-19 19:01:12,945 - nopCommerce -INFO - ****** User entered credentials Login ******
+2019-07-19 19:01:13,910 - nopCommerce -INFO - ****** User clicked on Login ******
+2019-07-19 19:01:14,108 - nopCommerce -INFO - ****** Unsuccessful Login ******
